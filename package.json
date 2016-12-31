@@ -1,0 +1,26 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "live": "live-server",
+    "start": "npm run live"
+  },
+  "dependencies": {
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {
+    "live-server": "^0.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siamking/tutorial.git"
+  },
+  "author": "TJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siamking/tutorial/issues"
+  },
+  "homepage": "https://github.com/siamking/tutorial#readme"
+}
